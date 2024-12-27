@@ -1,3 +1,1 @@
-#this is deployment file for client 1
-apiVersion: v1
-kind: Deployment
+1
